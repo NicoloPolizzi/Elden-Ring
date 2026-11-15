@@ -1,0 +1,3 @@
+- Religione e culto dell'interregno.
+- Governato dalle [[Due Dita]] (?)
+- Non vuole che i [[Senzaluce]] prendano l'[[Elden Ring]]

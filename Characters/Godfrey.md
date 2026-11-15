@@ -1,0 +1,1 @@
+Primo Lord Ancestrale, [[Senzaluce]]

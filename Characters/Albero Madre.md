@@ -1,0 +1,1 @@
+Essere divino in grado di dare la vita, a costo di riprendersela successivamente. Credo sia associato alla [[Volontà superiore]] e alla grazia.

@@ -1,0 +1,6 @@
+- [[Marika]] vuole distruggere l'[[Elden Ring]] = [[Volontà superiore]] = Grazia;
+- [[Elden Ring]] = [[Volontà superiore]] (che per tanto tempo era scomparsa) vuole che alcuni [[Senzaluce]] vengano sfidati per diventare elden lord
+- L'[[Ordine Aureo]] (per mia supposizione dalla parte di Marika) non vuole che i [[Senzaluce]] prendano l'anello
+- [[Melina]] vuole andare ai piedi dell'albero facendoci le veci di vergine delle due dita
+- [[Renna]] vuole che i senzaluce non seguano più gli ordini delle [[Due Dita]] = [[Ordine Aureo]]
+- [[Varrè]] boh, ci ha detto di seguire la grazia

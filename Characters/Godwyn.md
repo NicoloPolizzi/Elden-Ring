@@ -1,0 +1,2 @@
+- Figlio di [[Marika]] e [[Godfrey]] (?)
+- Primo a perire nella [[Notte dei Neri Coltelli]]

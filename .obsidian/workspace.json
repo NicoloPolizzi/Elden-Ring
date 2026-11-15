@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "f53d17da71fa07d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed08de6cf0b6452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "251c2b09362e870e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c71b0c0cda8cefa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d9b449341929e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e863137d3137951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "129d9d8e55f3454c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "7521ca96953c1a05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2b1801928558192",
+    "type": "split",
+    "children": [
+      {
+        "id": "749a16ff287313c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d386b6b1982da89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "2803c99bc46e8518",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "dbca576a1306a57b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "924ef8afbca464da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "c6468118b46aea9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "251c2b09362e870e",
+  "lastOpenFiles": [
+    "Elden Ring",
+    "Open Questions.md",
+    "demi-god.md",
+    "Cosa vogliono le forze in gioco.md",
+    "Timeline.md",
+    "Characters/Varrè.md",
+    "Characters/demi-gods.md",
+    "Characters/Godrick l'innestato.md",
+    "Characters/SIR GIDEON OFNEIR, THE ALL KNOWING!.md",
+    "Characters/Goldmask.md",
+    "Characters/Mangiasterco.md",
+    "Characters/Hoarah Loux.md",
+    "Characters/Fia.md",
+    "Luoghi/Aspraterra.md",
+    "Eventi/Shuttering.md",
+    "Luoghi/Interregno.md",
+    "Eventi",
+    "Luoghi",
+    "Luoghi/Castel tempesta.md",
+    "Eventi/Notte dei Neri Coltelli.md",
+    "Casate/Caria.md",
+    "Casate",
+    "Characters/Albero Madre.md",
+    "Characters/Senzaluce.md",
+    "Characters/Renna.md",
+    "Characters/Due Dita.md",
+    "Characters/Melina.md",
+    "Characters/Volontà superiore.md",
+    "Characters/Elden Ring.md",
+    "Characters"
+  ]
+}

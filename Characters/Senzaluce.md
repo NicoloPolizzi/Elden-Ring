@@ -1,0 +1,4 @@
+- Stirpe antica capace di vedere la Grazia
+- L'Elden Lord è sempre un senzaluce, come [[Godfrey]]
+- Una delle poche stirpi che non sono impazzite dopo che la [[Volontà superiore]] se n'è andata, come i nomadi mercanti
+- Hanno il potere di incanalare le rune della grazia tramite le vergini delle due dita per salire di livello.

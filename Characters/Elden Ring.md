@@ -1,0 +1,1 @@
+Manifestazione della [[Volontà superiore]]

@@ -1,0 +1,1 @@
+Notte in cui sono morti gli dei per la prima volta, per primo [[Godwyn]]

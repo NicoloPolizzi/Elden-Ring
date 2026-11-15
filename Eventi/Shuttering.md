@@ -1,0 +1,1 @@
+Evento che ha portato all'abbandono della [[Volontà superiore]] e alla follia dei membri dell'[[Interregno]]
